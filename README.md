@@ -9,3 +9,4 @@
 - [pandascamoufox](https://github.com/hansalemaos/pandascamoufox)
 - [playwright-captcha](https://github.com/techinz/playwright-captcha)
 - [node-camoufox](https://github.com/DemonMartin/node-camoufox)
+- [camoufox-profile-manager](https://github.com/polyackiy/camoufox-profile-manager)
