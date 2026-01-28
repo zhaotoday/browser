@@ -5,4 +5,4 @@
 - [browserforge](https://github.com/daijro/browserforge)  
 - [HumanCursor](https://github.com/riflosnake/HumanCursor)
 - [camoufox-mcp](https://github.com/baixianger/camoufox-mcp)
-  
+- [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
