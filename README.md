@@ -6,3 +6,4 @@
 - [HumanCursor](https://github.com/riflosnake/HumanCursor)
 - [camoufox-mcp](https://github.com/baixianger/camoufox-mcp)
 - [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
+- [pandascamoufox](https://github.com/hansalemaos/pandascamoufox)
