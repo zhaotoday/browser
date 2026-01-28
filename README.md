@@ -4,3 +4,5 @@
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 - [browserforge](https://github.com/daijro/browserforge)  
 - [HumanCursor](https://github.com/riflosnake/HumanCursor)
+- [camoufox-mcp](https://github.com/baixianger/camoufox-mcp)
+  
