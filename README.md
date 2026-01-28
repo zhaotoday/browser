@@ -8,3 +8,4 @@
 - [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
 - [pandascamoufox](https://github.com/hansalemaos/pandascamoufox)
 - [playwright-captcha](https://github.com/techinz/playwright-captcha)
+- [node-camoufox](https://github.com/DemonMartin/node-camoufox)
