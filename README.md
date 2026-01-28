@@ -7,3 +7,4 @@
 - [camoufox-mcp](https://github.com/baixianger/camoufox-mcp)
 - [AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)
 - [pandascamoufox](https://github.com/hansalemaos/pandascamoufox)
+- [playwright-captcha](https://github.com/techinz/playwright-captcha)
