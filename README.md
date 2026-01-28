@@ -10,3 +10,4 @@
 - [playwright-captcha](https://github.com/techinz/playwright-captcha)
 - [node-camoufox](https://github.com/DemonMartin/node-camoufox)
 - [camoufox-profile-manager](https://github.com/polyackiy/camoufox-profile-manager)
+- [playwright-with-fingerprints](https://github.com/bablosoft/playwright-with-fingerprints)
