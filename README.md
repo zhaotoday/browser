@@ -1,4 +1,5 @@
 #### 开源
+- [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [HeadlessX](https://github.com/saifyxpro/HeadlessX)
 - [camoufox](https://github.com/daijro/camoufox)
 - [camoufox-js](https://github.com/apify/camoufox-js)
