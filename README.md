@@ -1,4 +1,5 @@
 #### 开源
+- [wreq-js](https://github.com/sqdshguy/wreq-js)
 - [ai-browser](https://github.com/DeepFundAI/ai-browser)
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [HeadlessX](https://github.com/saifyxpro/HeadlessX)
