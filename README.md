@@ -19,6 +19,7 @@
 - [playwright-with-fingerprints](https://github.com/bablosoft/playwright-with-fingerprints)
 
 #### 文章
+- [告别 Selenium！这款 Go 语言神器，让网页自动化与爬虫快到飞起！](https://juejin.cn/post/7618874768384671753)
 - [微软又一自动化开源王炸，Selenium 慌了！](https://juejin.cn/post/7529337739357405203)
 - [agent-browser 深度技术解析：面向 AI Agent 的下一代浏览器自动化工具](https://juejin.cn/post/7595960824486625314)
 - [Vercel 凌晨突发：agent-browser 来了，减少 93% 上下文！AI 终于有了“操纵现实”的手！ 🚀](https://juejin.cn/post/7594722586732773382)
