@@ -1,4 +1,5 @@
 #### 开源
+- [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - [page-agent](https://github.com/alibaba/page-agent)
 - [fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js)
 - [wreq-js](https://github.com/sqdshguy/wreq-js)
