@@ -1,4 +1,5 @@
 #### 开源
+- [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
 - [openbrowser](https://github.com/ntegrals/openbrowser)
 - [agent-browser](https://github.com/vercel-labs/agent-browser)
 - [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
