@@ -1,4 +1,5 @@
 #### 开源
+- [obscura](https://github.com/h4ckf0r0day/obscura)
 - [chromium](https://github.com/Sparticuz/chromium)
 - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
 - [openbrowser](https://github.com/ntegrals/openbrowser)
