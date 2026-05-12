@@ -1,4 +1,5 @@
 #### 开源
+- [BrowserAI](https://github.com/sauravpanda/BrowserAI)
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [obscura](https://github.com/h4ckf0r0day/obscura)
 - [chromium](https://github.com/Sparticuz/chromium)
