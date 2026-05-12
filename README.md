@@ -1,4 +1,5 @@
 #### 开源
+- [AIPex](https://github.com/AIPexStudio/AIPex)
 - [openbrowser](https://github.com/ntegrals/openbrowser)
 - [bb-browser](https://github.com/epiral/bb-browser)
 - [HyperAgent](https://github.com/hyperbrowserai/HyperAgent)
