@@ -1,4 +1,5 @@
 #### 开源
+- [bb-browser](https://github.com/epiral/bb-browser)
 - [HyperAgent](https://github.com/hyperbrowserai/HyperAgent)
 - [BrowserAI](https://github.com/sauravpanda/BrowserAI)
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
