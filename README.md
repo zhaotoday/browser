@@ -1,4 +1,5 @@
 #### 开源
+- [openbrowser](https://github.com/ntegrals/openbrowser)
 - [bb-browser](https://github.com/epiral/bb-browser)
 - [HyperAgent](https://github.com/hyperbrowserai/HyperAgent)
 - [BrowserAI](https://github.com/sauravpanda/BrowserAI)
