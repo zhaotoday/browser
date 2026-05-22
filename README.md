@@ -1,4 +1,5 @@
 #### 开源
+- [camofox-browser](https://github.com/redf0x1/camofox-browser)
 - [clark-browser](https://github.com/clark-labs-inc/clark-browser)
 - [AIPex](https://github.com/AIPexStudio/AIPex)
 - [openbrowser](https://github.com/ntegrals/openbrowser)
