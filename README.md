@@ -1,4 +1,5 @@
 #### 开源
+- [clark-browser](https://github.com/clark-labs-inc/clark-browser)
 - [AIPex](https://github.com/AIPexStudio/AIPex)
 - [openbrowser](https://github.com/ntegrals/openbrowser)
 - [bb-browser](https://github.com/epiral/bb-browser)
