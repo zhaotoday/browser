@@ -1,4 +1,5 @@
 #### 开源
+- [openbrowser](https://github.com/ntegrals/openbrowser)
 - [bb-browser](https://github.com/epiral/bb-browser)
 - [camofox-browser](https://github.com/jo-inc/camofox-browser)
 - [camofox-browser](https://github.com/redf0x1/camofox-browser)
