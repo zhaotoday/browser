@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
 - [Camouflow](https://github.com/Tort1k558/Camouflow)
 - [browser-act/skills](https://github.com/browser-act/skills)
 - [browserless](https://github.com/microlinkhq/browserless)
