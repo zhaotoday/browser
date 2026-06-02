@@ -1,4 +1,5 @@
 #### 开源
+- [browser-act/skills](https://github.com/browser-act/skills)
 - [browserless](https://github.com/microlinkhq/browserless)
 - [openbrowser](https://github.com/ntegrals/openbrowser)
 - [bb-browser](https://github.com/epiral/bb-browser)
