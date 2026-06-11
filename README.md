@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation)
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS)
 - [awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
