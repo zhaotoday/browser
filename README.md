@@ -1,4 +1,5 @@
 #### 开源
+- [browser-harness](https://github.com/browser-use/browser-harness)
 - [awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation)
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS)
