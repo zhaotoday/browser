@@ -1,4 +1,5 @@
 #### 开源
+- [playwright-skill](https://github.com/testdino-hq/playwright-skill)
 - [dev-browser](https://github.com/SawyerHood/dev-browser)
 - [browser-harness](https://github.com/browser-use/browser-harness)
 - [awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation)
