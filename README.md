@@ -1,4 +1,5 @@
 #### 开源
+- [agent-browser-cli](https://github.com/sleepinginsummer/agent-browser-cli)
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill)
 - [dev-browser](https://github.com/SawyerHood/dev-browser)
 - [browser-harness](https://github.com/browser-use/browser-harness)
