@@ -1,4 +1,5 @@
 #### 开源
+- [browser-search](https://github.com/Johell1NS/browser-search)
 - [cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
 - [cloakbrowser-skill](https://github.com/OctavianTocan/cloakbrowser-skill)
 - [ego-lite](https://github.com/citrolabs/ego-lite)
