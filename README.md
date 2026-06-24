@@ -1,4 +1,5 @@
 #### 开源
+- [cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
 - [cloakbrowser-skill](https://github.com/OctavianTocan/cloakbrowser-skill)
 - [ego-lite](https://github.com/citrolabs/ego-lite)
 - [agent-browser-cli](https://github.com/sleepinginsummer/agent-browser-cli)
