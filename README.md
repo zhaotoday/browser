@@ -1,4 +1,5 @@
 #### 开源
+- [ego-lite](https://github.com/citrolabs/ego-lite)
 - [agent-browser-cli](https://github.com/sleepinginsummer/agent-browser-cli)
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill)
 - [dev-browser](https://github.com/SawyerHood/dev-browser)
