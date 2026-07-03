@@ -1,4 +1,5 @@
 #### 开源
+- [Browser-BC](https://github.com/Einsia/Browser-BC)
 - [browserwing](https://github.com/browserwing/browserwing)
 - [browser-search](https://github.com/Johell1NS/browser-search)
 - [cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
