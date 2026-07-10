@@ -1,4 +1,5 @@
 #### 开源
+- [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 - [chrome-use](https://github.com/leeguooooo/chrome-use)
 - [Browser-BC](https://github.com/Einsia/Browser-BC)
 - [browserwing](https://github.com/browserwing/browserwing)
