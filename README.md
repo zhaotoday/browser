@@ -1,3 +1,6 @@
+#### 产品
+- [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
+
 #### 开源
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 - [chrome-use](https://github.com/leeguooooo/chrome-use)
