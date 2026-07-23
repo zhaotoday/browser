@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [playwriter](https://github.com/remorses/playwriter)
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 - [chrome-use](https://github.com/leeguooooo/chrome-use)
 - [Browser-BC](https://github.com/Einsia/Browser-BC)
