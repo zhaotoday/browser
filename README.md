@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - [taiko](https://github.com/getgauge/taiko)
 - [selfsync](https://github.com/loyalpartner/selfsync)
 - [playwriter](https://github.com/remorses/playwriter)
