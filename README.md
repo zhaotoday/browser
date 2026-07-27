@@ -2,6 +2,8 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [taiko](https://github.com/getgauge/taiko)
+- [selfsync](https://github.com/loyalpartner/selfsync)
 - [playwriter](https://github.com/remorses/playwriter)
 - [BrowserSkill](https://github.com/Tencent/BrowserSkill)
 - [chrome-use](https://github.com/leeguooooo/chrome-use)
