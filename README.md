@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [rustwright](https://github.com/Skyvern-AI/rustwright)
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - [taiko](https://github.com/getgauge/taiko)
