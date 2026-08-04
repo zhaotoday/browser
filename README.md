@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [auto-browser](https://github.com/LvcidPsyche/auto-browser)
 - [BrowserAI](https://github.com/sauravpanda/BrowserAI)
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [rustwright](https://github.com/Skyvern-AI/rustwright)
