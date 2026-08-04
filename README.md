@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [astral](https://github.com/lino-levan/astral)
 - [playwright-framework-template](https://github.com/abhaybharti/playwright-framework-template)
 - [mswjs/playwright](https://github.com/mswjs/playwright)
 - [auto-browser](https://github.com/LvcidPsyche/auto-browser)
