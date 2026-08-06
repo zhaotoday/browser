@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 - [passmark](https://github.com/bug0inc/passmark)
 - [astral](https://github.com/lino-levan/astral)
