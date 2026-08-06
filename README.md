@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 - [passmark](https://github.com/bug0inc/passmark)
 - [astral](https://github.com/lino-levan/astral)
 - [playwright-framework-template](https://github.com/abhaybharti/playwright-framework-template)
