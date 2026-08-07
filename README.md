@@ -2,6 +2,7 @@
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 开源
+- [ghost-cursor](https://github.com/Xetera/ghost-cursor)
 - [ghost-cursor-patchright](https://www.npmjs.com/package/ghost-cursor-patchright)
 - [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
