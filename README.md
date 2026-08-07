@@ -4,6 +4,7 @@
 #### 开源
 - [ghost-cursor](https://github.com/Xetera/ghost-cursor)
 - [ghost-cursor-patchright](https://www.npmjs.com/package/ghost-cursor-patchright)
+- [phantomwright](https://www.npmjs.com/package/phantomwright)
 - [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 - [passmark](https://github.com/bug0inc/passmark)
