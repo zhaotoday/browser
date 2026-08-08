@@ -1,6 +1,9 @@
 #### 产品
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
+#### 自动化方案
+- [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
+
 #### 开源
 - [ghost-cursor](https://github.com/Xetera/ghost-cursor)
 - [ghost-cursor-patchright](https://www.npmjs.com/package/ghost-cursor-patchright)
