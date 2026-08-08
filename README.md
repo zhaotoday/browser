@@ -7,6 +7,7 @@
 - [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
 
 #### 开源
+- [buster](https://github.com/dessant/buster)
 - [ghost-cursor](https://github.com/Xetera/ghost-cursor)
 - [phantomwright](https://www.npmjs.com/package/phantomwright)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
