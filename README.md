@@ -5,6 +5,7 @@
 - [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - [ghost-cursor-patchright](https://www.npmjs.com/package/ghost-cursor-patchright)
 - [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
+- [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps)
@@ -23,7 +24,6 @@
 - [mswjs/playwright](https://github.com/mswjs/playwright)
 - [auto-browser](https://github.com/LvcidPsyche/auto-browser)
 - [BrowserAI](https://github.com/sauravpanda/BrowserAI)
-- [skyvern](https://github.com/Skyvern-AI/skyvern)
 - [rustwright](https://github.com/Skyvern-AI/rustwright)
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - [taiko](https://github.com/getgauge/taiko)
