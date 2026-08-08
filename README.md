@@ -7,6 +7,7 @@
 - [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
 
 #### 开源
+- [2captcha-javascript](https://github.com/2captcha/2captcha-javascript)
 - [capsolver-browser-extension](https://github.com/capsolver/capsolver-browser-extension)
 - [buster](https://github.com/dessant/buster)
 - [ghost-cursor](https://github.com/Xetera/ghost-cursor)
