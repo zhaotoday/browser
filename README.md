@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger)
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps)
 - [invisible_playwright](https://github.com/feder-cr/invisible_playwright)
 - [playwright-captcha](https://github.com/techinz/playwright-captcha)
