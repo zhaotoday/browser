@@ -1,4 +1,5 @@
 #### 产品
+- [humanbrowser](https://humanbrowser.cloud/)
 - [Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge)
 
 #### 自动化方案
