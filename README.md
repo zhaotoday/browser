@@ -7,6 +7,7 @@
 - [nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension)
 
 #### 开源
+- [playwright-captcha](https://github.com/techinz/playwright-captcha)
 - [hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)
 - [2captcha-javascript](https://github.com/2captcha/2captcha-javascript)
 - [capsolver-browser-extension](https://github.com/capsolver/capsolver-browser-extension)
