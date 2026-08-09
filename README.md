@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [patchright-mcp](https://github.com/Ikaleio/patchright-mcp)
 - [patchright-browser](https://github.com/rickicode/patchright-browser)
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark)
 - [patchright-cli](https://github.com/AhaiMk01/patchright-cli)
