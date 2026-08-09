@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [browsers-benchmark](https://github.com/techinz/browsers-benchmark)
 - [patchright-cli](https://github.com/AhaiMk01/patchright-cli)
 - [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger)
 - [playwright-magic-steps](https://github.com/vitalets/playwright-magic-steps)
