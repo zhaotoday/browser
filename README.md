@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [patchright-mcp](https://github.com/Ikaleio/patchright-mcp)
 - [patchright-browser](https://github.com/rickicode/patchright-browser)
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark)
