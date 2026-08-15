@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [neko](https://github.com/m1k1o/neko)
 - [libretto](https://github.com/saffron-health/libretto)
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [patchright-mcp](https://github.com/Ikaleio/patchright-mcp)
