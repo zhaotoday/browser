@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [chromiumfish](https://github.com/arman-bd/chromiumfish)
 - [damru](https://github.com/akwin1234/damru)
 - [neko](https://github.com/m1k1o/neko)
 - [libretto](https://github.com/saffron-health/libretto)
