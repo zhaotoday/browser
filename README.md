@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [camoufox-cli](https://github.com/Bin-Huang/camoufox-cli)
 - [browser-control](https://github.com/anomalyco/browser-control)
 - [auto-browser](https://github.com/LvcidPsyche/auto-browser)
 - [browsercode](https://github.com/browser-use/browsercode)
