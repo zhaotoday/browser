@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [webbrain](https://github.com/webbrain-one/webbrain)
 - [Interceptor](https://github.com/Hacker-Valley-Media/Interceptor)
 - [playwriter](https://github.com/remorses/playwriter)
 - [Patchright-RPA](https://github.com/ZyanWan/Patchright-RPA)
