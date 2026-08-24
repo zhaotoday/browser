@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [AIPex](https://github.com/AIPexStudio/AIPex)
 - [notte](https://github.com/nottelabs/notte)
 - [webbrain](https://github.com/webbrain-one/webbrain)
 - [Interceptor](https://github.com/Hacker-Valley-Media/Interceptor)
