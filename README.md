@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
 - [fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js)
 - [camoufox-cli](https://github.com/Bin-Huang/camoufox-cli)
 - [browser-control](https://github.com/anomalyco/browser-control)
