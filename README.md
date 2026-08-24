@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [kameleo](https://github.com/kameleo-io/kameleo)
 - [anti-detect-browser-skills](https://github.com/antibrow/anti-detect-browser-skills)
 - [agent-browser-cli](https://github.com/sleepinginsummer/agent-browser-cli)
 - [AIPex](https://github.com/AIPexStudio/AIPex)
