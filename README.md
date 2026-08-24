@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [agent-browser-cli](https://github.com/sleepinginsummer/agent-browser-cli)
 - [AIPex](https://github.com/AIPexStudio/AIPex)
 - [notte](https://github.com/nottelabs/notte)
 - [webbrain](https://github.com/webbrain-one/webbrain)
