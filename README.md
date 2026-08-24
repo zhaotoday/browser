@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [playwriter](https://github.com/remorses/playwriter)
 - [Patchright-RPA](https://github.com/ZyanWan/Patchright-RPA)
 - [clawbrowser](https://github.com/clawbrowser/clawbrowser)
 - [steel-browser](https://github.com/steel-dev/steel-browser)
