@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [clawbrowser](https://github.com/clawbrowser/clawbrowser)
 - [steel-browser](https://github.com/steel-dev/steel-browser)
 - [chromiumfish](https://github.com/arman-bd/chromiumfish)
 - [damru](https://github.com/akwin1234/damru)
