@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [cuimp-ts](https://github.com/F4RAN/cuimp-ts)
 - [open-browser-use](https://github.com/iFurySt/open-browser-use)
 - [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
 - [fingerprinter-js](https://github.com/Lorenzo-Coslado/fingerprinter-js)
