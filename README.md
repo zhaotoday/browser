@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [Patchright-RPA](https://github.com/ZyanWan/Patchright-RPA)
 - [libretto](https://github.com/saffron-health/libretto)
 - [anti-detect-browser-skills](https://github.com/antibrow/anti-detect-browser-skills)
 - [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)
