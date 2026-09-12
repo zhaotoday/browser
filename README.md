@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [anti-detect-browser-skills](https://github.com/antibrow/anti-detect-browser-skills)
 - [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)
 - [kameleo](https://github.com/kameleo-io/kameleo)
 - [cuimp-ts](https://github.com/F4RAN/cuimp-ts)
