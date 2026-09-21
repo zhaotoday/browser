@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [jev-browser-use](https://github.com/wy-coliney/jev-browser-use)
 - [browser-profiles](https://github.com/aitofy-dev/browser-profiles)
 - [Patchright-RPA](https://github.com/ZyanWan/Patchright-RPA)
 - [libretto](https://github.com/saffron-health/libretto)
