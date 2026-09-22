@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [panerelay](https://github.com/F-loat/panerelay)
 - [patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced)
 - [geelark-mcp](https://github.com/techinz/geelark-mcp)
 - [jev-browser-use](https://github.com/wy-coliney/jev-browser-use)
