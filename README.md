@@ -9,6 +9,7 @@
 - [skyvern](https://github.com/Skyvern-AI/skyvern)
 
 #### 开源
+- [Chromium_Clang](https://github.com/RobRich999/Chromium_Clang)
 - [panerelay](https://github.com/F-loat/panerelay)
 - [patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced)
 - [geelark-mcp](https://github.com/techinz/geelark-mcp)
